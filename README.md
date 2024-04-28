@@ -13,6 +13,7 @@ Other options to get started:
 * [Install & setup Prism Launcher](./docs/launcher/prism/index.md)
 * [Install & setup Modrinth Launcher](./docs/launcher/mr/index.md)
 * [Install & setup ATLauncher](./docs/launcher/at/index.md)
+* [About clients/modfolders](./docs/clients/clients_modfolders.md)
 
 Once you're up and ready, you can proceed to either of these pages, again, depending on the version of Minecraft you chose:
 * 1.8.9: [See this list for Forge 1.8.9 mods](./docs/1.8.9/mods.md).
