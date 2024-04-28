@@ -9,10 +9,10 @@ To get started, follow these steps, depending on the version of Minecraft you wi
 * 1.20: [Install Fabric for 1.20](./docs/1.20/fabric.md).
 
 Other options to get started:
-* [Install SkyClient](./docs/sc/win_skyclient.md) (1.8.9 only)
-* [Install & setup Prism Launcher](./docs/launcher/prism/win_prism.md)
-* [Install & setup Modrinth Launcher](./docs/launcher/mr/win_modrinth.md)
-* [Install & setup ATLauncher](./docs/launcher/at/win_atlauncher.md)
+* [Install SkyClient](./docs/sc/index.md) (1.8.9 only)
+* [Install & setup Prism Launcher](./docs/launcher/prism/index.md)
+* [Install & setup Modrinth Launcher](./docs/launcher/mr/index.md)
+* [Install & setup ATLauncher](./docs/launcher/at/index.md)
 
 Once you're up and ready, you can proceed to either of these pages, again, depending on the version of Minecraft you chose:
 * 1.8.9: [See this list for Forge 1.8.9 mods](./docs/1.8.9/mods.md).
