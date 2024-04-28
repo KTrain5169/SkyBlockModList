@@ -5,3 +5,9 @@ If you wish to improve the repo in any way, open an [Issue](https://github.com/K
 To get started, follow these steps, depending on the version of Minecraft you wish to play:
 * 1.8.9: Install Forge for 1.8.9.
 * 1.20: Install Fabric for 1.20.
+
+Other options to get started:
+* Install SkyClient
+* Install Prism Launcher
+* Install Modrinth Launcher
+* Install ATLauncher
