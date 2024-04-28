@@ -9,7 +9,7 @@ To get started, follow these steps, depending on the version of Minecraft you wi
 * 1.20: [Install Fabric for 1.20](./docs/1.20/fabric.md).
 
 Other options to get started:
-* [Install SkyClient](./docs/launcher/win_skyclient.md) (1.8.9 only)
+* [Install SkyClient](./docs/sc/win_skyclient.md) (1.8.9 only)
 * [Install & setup Prism Launcher](./docs/launcher/prism/win_prism.md)
 * [Install & setup Modrinth Launcher](./docs/launcher/mr/win_modrinth.md)
 * [Install & setup ATLauncher](./docs/launcher/at/win_atlauncher.md)
